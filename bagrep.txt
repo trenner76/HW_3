@@ -1,7 +1,4 @@
-
-
-[A[A
-[ASummary
+Summary
 ID
 Description
 Steps to reproduce
